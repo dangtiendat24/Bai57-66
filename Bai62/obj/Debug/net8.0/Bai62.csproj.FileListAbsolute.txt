@@ -1,0 +1,14 @@
+C:\Users\Dang Dat\source\repos\Bai62\bin\Debug\net8.0\Bai62.exe
+C:\Users\Dang Dat\source\repos\Bai62\bin\Debug\net8.0\Bai62.deps.json
+C:\Users\Dang Dat\source\repos\Bai62\bin\Debug\net8.0\Bai62.runtimeconfig.json
+C:\Users\Dang Dat\source\repos\Bai62\bin\Debug\net8.0\Bai62.dll
+C:\Users\Dang Dat\source\repos\Bai62\bin\Debug\net8.0\Bai62.pdb
+C:\Users\Dang Dat\source\repos\Bai62\obj\Debug\net8.0\Bai62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Dat\source\repos\Bai62\obj\Debug\net8.0\Bai62.AssemblyInfoInputs.cache
+C:\Users\Dang Dat\source\repos\Bai62\obj\Debug\net8.0\Bai62.AssemblyInfo.cs
+C:\Users\Dang Dat\source\repos\Bai62\obj\Debug\net8.0\Bai62.csproj.CoreCompileInputs.cache
+C:\Users\Dang Dat\source\repos\Bai62\obj\Debug\net8.0\Bai62.dll
+C:\Users\Dang Dat\source\repos\Bai62\obj\Debug\net8.0\refint\Bai62.dll
+C:\Users\Dang Dat\source\repos\Bai62\obj\Debug\net8.0\Bai62.pdb
+C:\Users\Dang Dat\source\repos\Bai62\obj\Debug\net8.0\Bai62.genruntimeconfig.cache
+C:\Users\Dang Dat\source\repos\Bai62\obj\Debug\net8.0\ref\Bai62.dll
